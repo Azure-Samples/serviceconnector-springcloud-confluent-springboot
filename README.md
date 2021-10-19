@@ -11,20 +11,6 @@ zone_pivot_groups:
 ---
 # Tutorial: Deploy a SpringBoot app connected to Apache Kafka on Confluent Cloud with Service Connector
 
-::: zone pivot=""
-
-This tutorial shows .
-
-In this tutorial, you use the Azure CLI to complete the following tasks:
-
-> [!div class="checklist"]
-> * Set up
-
-
-You can also use the [Azure portal version of this tutorial](/azure/developer/python/tutorial-python-postgresql-app-portal?pivots=postgres-single-server).
-
-:::zone-end
-
 ## 1. Set up your initial environment
 
 1. Have an Azure account with an active subscription. [Create an account for free](https://azure.microsoft.com/free/?ref=microsoft.com&utm_source=microsoft.com&utm_medium=docs&utm_campaign=visualstudio).
