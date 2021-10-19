@@ -1,0 +1,7 @@
+{"namespace": "azure.confluent.examples",
+ "type": "record",
+ "name": "DataRecordAvro",
+ "fields": [
+     {"name": "ID", "type": "long"}
+ ]
+}
