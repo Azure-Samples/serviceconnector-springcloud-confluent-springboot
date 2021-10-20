@@ -24,12 +24,12 @@ repositories {
 apply plugin: 'com.commercehub.gradle.plugin.avro'
 apply plugin: 'idea'
 
-group = 'io.confluent.examples.clients.cloud'
+group = 'azure.confluent.examples'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '8'
 
 bootJar {
-  mainClassName = "io.confluent.examples.clients.cloud.springboot.kafka.SpringbootKafkaApplication"
+  mainClassName = "com.example.demo.SpringbootKafkaApplication"
 }
 
 repositories {
