@@ -2,12 +2,10 @@ package com.example.demo;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.apache.kafka.clients.producer.RecordMetadata;
-import org.springframework.boot.context.event.ApplicationStartedEvent;
-import org.springframework.context.event.EventListener;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Component;
 
-import io.confluent.examples.clients.cloud.DataRecordAvro;
+import azure.confluent.examples.DataRecordAvro;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 
