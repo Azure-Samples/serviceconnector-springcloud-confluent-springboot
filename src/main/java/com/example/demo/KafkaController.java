@@ -9,7 +9,7 @@ public class KafkaController {
     @Autowired
     private KafkaProducer producer;
 
-    @GetMapping("/produce")
+    @GetMapping("/")
     public String pushMessage() {
         return producer.produce();
     }
