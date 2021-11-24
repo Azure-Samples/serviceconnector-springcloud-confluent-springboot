@@ -45,7 +45,7 @@ Having issues? [Let us know](https://aka.ms/DjangoCLITutorialHelp).
 Clone the sample repository:
 
 ```terminal
-git clone https://github.com/xfz11/ConnectorSampleCode/tree/master/Confluent
+git clone https://github.com/Azure-Samples/serviceconnector-springcloud-confluent-springboot
 ```
 
 Then navigate into that folder:
