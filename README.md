@@ -8,6 +8,11 @@ ms.service: service-connector
 ms.topic: tutorial
 ms.date: 10/28/2021
 zone_pivot_groups: 
+page_type: sample
+languages:
+- java
+products:
+- service-connector
 ---
 # Tutorial: Deploy a SpringBoot app connected to Apache Kafka on Confluent Cloud with Service Connector
 
